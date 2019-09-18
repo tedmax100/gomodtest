@@ -1,4 +1,4 @@
-module ithome
+module github.com/tedmax100/ithome
 
 go 1.12
 
