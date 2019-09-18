@@ -1,7 +1,7 @@
 package ithome
 
 import (
-	"ithome/ironman"
+	"github.com/tedmax100/ithome/ironman"
 
 	log "github.com/sirupsen/logrus"
 )
