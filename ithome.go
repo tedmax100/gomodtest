@@ -7,11 +7,6 @@ import (
 )
 
 func PrintItHome() {
-	log.Info("hi ItHome")
-	ironman.PrintIronMan()
-}
-
-func V5PrintItHome() {
-	log.Debug("hi ItHome V5")
+	log.Info("hi ItHome V7")
 	ironman.PrintIronMan()
 }
