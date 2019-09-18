@@ -10,3 +10,8 @@ func PrintItHome() {
 	log.Info("hi ItHome")
 	ironman.PrintIronMan()
 }
+
+func V2PrintItHome() {
+	log.Debug("hi ItHome V2")
+	ironman.PrintIronMan()
+}
