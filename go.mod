@@ -1,4 +1,4 @@
-module github.com/tedmax100/ithome@v0.0.3
+module github.com/tedmax100/ithome@v0.0.4
 
 go 1.12
 
